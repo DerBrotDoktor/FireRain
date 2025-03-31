@@ -2,7 +2,8 @@
 
 **Fire Rain is an action-packed arcade game where you must save your plants from a raging wildfire! Throw the turtle, hit falling embers and keep your garden alive!**
 
-[Google Play Store](https://play.google.com/store/apps/details?id=com.gamesfortheplanet.firerain)
+[Google Play Store](https://play.google.com/store/apps/details?id=com.gamesfortheplanet.firerain) <br />
+[Apple App Store](https://apps.apple.com/de/app/fire-rain/id6743373900)
 
 ## Tools
 
